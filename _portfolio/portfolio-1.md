@@ -10,4 +10,4 @@ Material agency are under discussion that we should listen to non-human's voice.
 ---
 
  <!--embed an image below  -->
-![Image Description](paperCrafting.jpg)
+![Image Description](./images/paperCrafting.jpg)
