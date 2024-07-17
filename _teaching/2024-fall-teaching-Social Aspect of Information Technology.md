@@ -1,5 +1,5 @@
 ---
-title: "Teaching Assistant for IS 202 - Social Aspect of Information Technology"
+title: "UIUC IS 202 - Social Aspect of Information Technology"
 collection: teaching
 type: "Undergraduate course"
 permalink: #
