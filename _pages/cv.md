@@ -11,36 +11,38 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Information Science, University of Illinois Urbana-Champaign, 2024 - 
+* M.S. in Digital Media, Georgia Institute of Technology, 2022 - 2024
+* B.E. in Industrial Design, Hunan University, 2018 - 2022
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Aug-Dec 2022: Interaction Designer
+  * Cognizant
+  * Duties includes: Designing and fabricating interactive shopping experience for market purchase
+  * Supervisor: Hunter Spence
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Jun-Aug 2021: User Researcher
+  * Lemonbox Inc.
+  * Duties included: Ideated, designed, recruited, and hosted user interview with 10+ customers; conducted thematic analysis; launched user report and designed sample interaction for repurchase boost; Case finally accepted and launched as product
+  * Supervisor: Yushi Wang
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
+* Design
+  * Visual Design
+  * Industrial Design
+  * User Interface/Experience Design
+* Qualitative Research
+  * User Interview
+  * Observation
+  * Thematic Analysis
+* Physical Computing
+  * Arduino
+  * Javascript
+  * Python
+  * Unity
+  
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
@@ -61,4 +63,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Reviewer for Computers in Human Behavior
