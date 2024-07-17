@@ -4,7 +4,7 @@ collection: publications
 permalink: https://link.springer.com/chapter/10.1007/978-3-031-06053-3_21
 excerpt: #
 date: 2022-06-16
-venue: #
+venue: International Conference on Human-Computer Interaction
 slidesurl: #
 paperurl: 'https://link.springer.com/content/pdf/10.1007/978-3-031-06053-3.pdf'
 citation: #

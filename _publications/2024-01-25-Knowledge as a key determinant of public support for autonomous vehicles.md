@@ -1,10 +1,10 @@
 ---
-title: "Chasing Tacit Knowledge: Multi-layered Sensing in Woodworking"
+title: "Knowledge as a key determinant of public support for autonomous vehicles"
 collection: publications
-permalink: Knowledge as a key determinant of public support for autonomous vehicles
+permalink: https://www.nature.com/articles/s41598-024-52103-6
 excerpt: #
 date: 2024-01-25
-venue: #
+venue: Scientific Reports
 slidesurl: #
 paperurl: 'https://www.nature.com/articles/s41598-024-52103-6.pdf'
 citation: #
